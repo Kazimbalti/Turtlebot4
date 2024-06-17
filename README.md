@@ -25,8 +25,9 @@ Launch turtlebot4 gazebo simulator, rviz and teleop control
     cd ~/turtlebot4_ws
     source install/setup.bash
     ros2 launch nav2_minimal_tb4_sim simulation.launch.py
-```
+
 Then teleop the turtlebot4 using
+
 ```
     In terminal 1:
     cd ~/turtlebot4_ws
